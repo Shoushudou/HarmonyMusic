@@ -1,0 +1,6 @@
+{
+  "name": "Harmony Music",
+  "description": "A beautiful Material You offline music player with gapless playback, scrolling lyrics, and AI daily mix playlist generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
